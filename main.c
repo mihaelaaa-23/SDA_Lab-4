@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include "struct.h"
-#include "union.h"
+#include "main.h"
 
 int main() {
     int choice;
